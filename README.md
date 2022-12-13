@@ -8,3 +8,4 @@ public class Main {
                     System.out.println ("umnojenie: " + (num1 * num2 * num3));
                 }
             }
+
